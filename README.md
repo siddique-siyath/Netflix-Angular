@@ -33,7 +33,7 @@ Installing
 
 
 ```bash 
-git clone https://github.com/your-username/netflix-clone-tmdb.git 
+git clone https://github.com/siddique-siyath/Netflix-Angular 
 ```
  
  
@@ -42,7 +42,7 @@ git clone https://github.com/your-username/netflix-clone-tmdb.git
 
 
 ```bash 
-cd netflix-clone-tmdb
+cd NetflixClone
 ```
 
 
