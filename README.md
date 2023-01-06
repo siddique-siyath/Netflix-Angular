@@ -28,24 +28,52 @@ You will need to have the following software installed on your machine:
  
 Installing
 
-Clone the repository to your local machine:
+1 . Clone the repository to your local machine:
+
 
 
 ```bash 
-
 git clone https://github.com/your-username/netflix-clone-tmdb.git 
-
 ```
  
+ 
+2 . ``` Install dependencies ```
 
-``` Install dependencies ```
 
 
 ```bash 
-
 cd netflix-clone-tmdb
-
 ```
+
+
+3 . ``` Install the dependencies: ```
+
+
+
+```bash
+npm install 
+```
+
+
+4 .Create a new file called environment.ts in the src/environments directory and add your TMDB API key:
+
+
+5 . ``` Start the development server: ```
+
+```bash
+ng serve
+```
+
+
+The app will be available at http://localhost:4200/.
+
+
+## Built With 
+
+ - Angular
+
+ - TMDB API
+
 
 
 
