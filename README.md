@@ -12,7 +12,7 @@ You may also see any lint errors in the console.
 
 
 
-![This is an image](/NetflixClone/src/assets/netflix image.png)
+![This is an image](/NetflixClone/src/assets/netflix_image.png)
 
 
  ## ``` Getting Started ```
