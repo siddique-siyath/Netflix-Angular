@@ -11,6 +11,10 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 
+
+![This is an image](/NetflixClone/src/assets/netflix image.png)
+
+
  ## ``` Getting Started ```
 These instructions will get you a copy of the project up and running on your local 
 
